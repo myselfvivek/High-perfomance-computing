@@ -1,0 +1,15 @@
+start with: ssh 
+
+new file : vi serial.c
+
+save exit : :wq
+
+open file: nano filename
+
+
+run c file: gcc filename
+
+run python file : python name.py
+
+folder change: cd location
+
